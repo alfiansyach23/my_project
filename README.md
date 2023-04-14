@@ -1,2 +1,2 @@
 # My Project
-Repository Data Analyst
+Repository Project
