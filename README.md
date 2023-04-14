@@ -1,2 +1,2 @@
-# data-analyst
+# My Project
 Repository Data Analyst
