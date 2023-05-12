@@ -293,7 +293,6 @@ HAVING COUNT(*) > 1
 --------------------------------------------------------------------------------
 
 --EXPLORATORY DATA ANALYSIS (EDA)
-
 --what vendor categories received the most orders and total items ordered by each gender
 SELECT
 	v.vendor_category_en,
